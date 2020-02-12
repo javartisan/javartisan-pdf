@@ -1,0 +1,8 @@
+URL：	ch.cksfck04.svc.mjq2.vitess.n.jd.local
+	
+读写用户：	datamill_v5_rw
+密码	： M3AOIl9R1JAjVm
+	
+	
+只读用户：	datamill_v5_ro 
+密码：	KKHwVf2iwREcxh
